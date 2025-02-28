@@ -16,6 +16,7 @@ export default function DashboardView() {
     
     const [cars, setCars] = useState<Car[]>([]);
     const [selectedCar, setSelectedCar] = useState('');
+    const [searchTerm, setSearchTerm] = useState('');
 
     useEffect(() => {
         fetch('/data/precios.json')
@@ -52,6 +53,14 @@ export default function DashboardView() {
         return (precioAuto * porcentajeMensualidad) / 100;
     };
 
+    const filteredCars = cars.filter(car => {
+        const searchWords = searchTerm.toLowerCase().split(' ');
+        return searchWords.every(word =>
+            car.marca.toLowerCase().includes(word) ||
+            car.descripcion.toLowerCase().includes(word)
+        );
+    });
+
     return (
         <div className="space-y-6 p-6 max-w-4xl mx-auto">
             <h1 className="text-3xl font-bold text-gray-800">Cotización de planes</h1>
@@ -62,6 +71,19 @@ export default function DashboardView() {
                     <div className="space-y-4">
                         <div>
                             <label className="block text-sm font-medium text-gray-700 mb-2">
+                                Buscar coche
+                            </label>
+                            <input
+                                type="text"
+                                className="w-full p-2 border rounded-md"
+                                placeholder="Buscar por marca o modelo"
+                                value={searchTerm}
+                                onChange={(e) => setSearchTerm(e.target.value)}
+                            />
+                        </div>
+
+                        <div>
+                            <label className="block text-sm font-medium text-gray-700 mb-2">
                                 Seleccionar coche
                             </label>
                             <select
@@ -70,7 +92,7 @@ export default function DashboardView() {
                                 onChange={(e) => setSelectedCar(e.target.value)}
                             >
                                 <option value="">Seleccione un coche</option>
-                                {cars.map((car, index) => (
+                                {filteredCars.map((car, index) => (
                                     <option key={index} value={car.descripcion}>
                                         {car.marca} - {car.descripcion} - ${car.precio}
                                     </option>
