@@ -18,7 +18,7 @@ export default function DashboardView() {
     const [selectedCar, setSelectedCar] = useState('');
 
     useEffect(() => {
-        fetch('/public/data/precios.json')
+        fetch('/data/precios.json')
             .then((response) => response.json())
             .then((data: Car[]) => setCars(data))
             .catch((error) => console.error('Error fetching cars:', error));
