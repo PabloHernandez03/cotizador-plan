@@ -1,0 +1,2532 @@
+[
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "AVEO HB BLACK EDITION",
+    "precio": 324600.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "AVEO HB LT PLUS AT",
+    "precio": 348600.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "AVEO HB LT TM",
+    "precio": 316900.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "AVEO LS TM NB D",
+    "precio": 306600.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "AVEO LT TM NB E",
+    "precio": 329600.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "AVEO SEDAN PAQ F TA  LT PLUS",
+    "precio": 358600.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "CAPTIVA PAQ A LT CVT 5 PASAJ",
+    "precio": 507100.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "CAPTIVA PAQ B LT AVT 7 PASAJ",
+    "precio": 516600.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "CAPTIVA PAQ C PREMIER 7 PASAJ",
+    "precio": 557100.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "GROOVE LT TA",
+    "precio": 431900.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "GROOVE LT TM",
+    "precio": 397900.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "GROOVE PREMIER TA",
+    "precio": 466900.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "MONTANA LT",
+    "precio": 533400.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "MONTANA RS",
+    "precio": 599400.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "ONIX PAQ B LS AUTOMATICA",
+    "precio": 350400.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "ONIX PAQ C LT MANUAL",
+    "precio": 369900.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "ONIX PAQ D LT AUTOMATICA",
+    "precio": 396900.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "ONIX PAQ E PREMIER",
+    "precio": 429400.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "S10 Max Cabina Regular 2.4 4X2 PAQ B",
+    "precio": 469400.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "S10 Max Crew Cab 2.0 Turbo 4x4 PAQ D",
+    "precio": 696700.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "S10 Max Crew Cab 2.4 4x2 PAQ C",
+    "precio": 513600.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "TORNADO VAN",
+    "precio": 337600.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "TRACKER LS PAQ A TM",
+    "precio": 436600.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "TRACKER LS PAQ B TA",
+    "precio": 465600.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "TRACKER LT PAQ C TA",
+    "precio": 498600.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "TRACKER PREMIER PAQ D",
+    "precio": 560600.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "TRACKER RS TA PAQ R",
+    "precio": 544600.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "TRAX NG LS PAQ A TA",
+    "precio": 520100.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "TRAX NG LT PAQ B TA",
+    "precio": 563400.0
+  },
+  {
+    "marca": "CHEVROLET",
+    "descripcion": "TRAX NG RS PAC C TA",
+    "precio": 597700.0
+  },
+  {
+    "marca": "CHIREY",
+    "descripcion": "TIGGO 2 COMFORT 1.0T",
+    "precio": 329900.0
+  },
+  {
+    "marca": "CHIREY",
+    "descripcion": "TIGGO 2 LUXURY 1.0T",
+    "precio": 356900.0
+  },
+  {
+    "marca": "CHIREY",
+    "descripcion": "TIGGO 4 PRO LUXURY 1.5T",
+    "precio": 439900.0
+  },
+  {
+    "marca": "CHIREY",
+    "descripcion": "TIGGO 4 PRO1.5T Premium 1.5T",
+    "precio": 479900.0
+  },
+  {
+    "marca": "CHIREY",
+    "descripcion": "TIGGO 7 PRO COMFORT",
+    "precio": 499900.0
+  },
+  {
+    "marca": "CHIREY",
+    "descripcion": "TIGGO 7 PRO ET PLUS PREMIUM 1.6T",
+    "precio": 749900.0
+  },
+  {
+    "marca": "CHIREY",
+    "descripcion": "TIGGO 7 PRO LUXURY",
+    "precio": 559900.0
+  },
+  {
+    "marca": "CHIREY",
+    "descripcion": "TIGGO 7 PRO MAX PREMIUM",
+    "precio": 619900.0
+  },
+  {
+    "marca": "CHIREY",
+    "descripcion": "TIGGO 8 PRO 1.6 T LUXURY 2WD",
+    "precio": 609900.0
+  },
+  {
+    "marca": "CHIREY",
+    "descripcion": "TIGGO 8 PRO 1.6 TPREMIUM 2WD",
+    "precio": 649900.0
+  },
+  {
+    "marca": "CHIREY",
+    "descripcion": "TIGGO 8 PRO ET HIBRIDA",
+    "precio": 899900.0
+  },
+  {
+    "marca": "CHIREY",
+    "descripcion": "TIGGO 8 PRO MAX  LUXURY 2WD",
+    "precio": 690900.0
+  },
+  {
+    "marca": "CHIREY",
+    "descripcion": "TIGGO 8 PRO MAX  PREMIUM AWD",
+    "precio": 729900.0
+  },
+  {
+    "marca": "CUPRA",
+    "descripcion": "ATECA 2.0 TSI 300 HP DSG 4DRIVE",
+    "precio": 921900.0
+  },
+  {
+    "marca": "CUPRA",
+    "descripcion": "ATECA 2.0 TSI 300HP DSG 4DRIVE",
+    "precio": 957900.0
+  },
+  {
+    "marca": "CUPRA",
+    "descripcion": "FOMENTOR 2.0 TSI 190HP DSG7",
+    "precio": 699900.0
+  },
+  {
+    "marca": "CUPRA",
+    "descripcion": "FOMENTOR 2.0 TSI 190HP DSG7 RIN MAQUINADO",
+    "precio": 707900.0
+  },
+  {
+    "marca": "CUPRA",
+    "descripcion": "FOMENTOR 2.0 TSI 245HP DSG PHEV",
+    "precio": 904900.0
+  },
+  {
+    "marca": "CUPRA",
+    "descripcion": "FOMENTOR 2.0 TSI 245HP DSG PHEV PINTURTA MATE",
+    "precio": 944900.0
+  },
+  {
+    "marca": "CUPRA",
+    "descripcion": "FOMENTOR 2.0 TSI 310HP DSG7 VZ PINTURA MATE",
+    "precio": 969900.0
+  },
+  {
+    "marca": "CUPRA",
+    "descripcion": "FOMENTOR 2.0 TSI 310HP DSG7 VZ TRIBE EDITION",
+    "precio": 994900.0
+  },
+  {
+    "marca": "CUPRA",
+    "descripcion": "FORMENTOR VZ 2.0 310HP",
+    "precio": 929900.0
+  },
+  {
+    "marca": "CUPRA",
+    "descripcion": "LEON 2.0 TSI 300HP DSG7 PINTURA MATE",
+    "precio": 824900.0
+  },
+  {
+    "marca": "CUPRA",
+    "descripcion": "LEON 300 HP DSG 7",
+    "precio": 784900.0
+  },
+  {
+    "marca": "CUPRA",
+    "descripcion": "LEON TSI 190HP DSG7",
+    "precio": 634900.0
+  },
+  {
+    "marca": "DODGE",
+    "descripcion": "JOURNEY GT PLUS",
+    "precio": 707900.0
+  },
+  {
+    "marca": "DODGE",
+    "descripcion": "JOURNEY SPORT",
+    "precio": 661900.0
+  },
+  {
+    "marca": "DODGE",
+    "descripcion": "JOURNEY SXT",
+    "precio": 585900.0
+  },
+  {
+    "marca": "DODGE",
+    "descripcion": "NUEVO ATTITUDE GT",
+    "precio": 488900.0
+  },
+  {
+    "marca": "DODGE",
+    "descripcion": "NUEVO ATTITUDE SPORT",
+    "precio": 456400.0
+  },
+  {
+    "marca": "DODGE",
+    "descripcion": "NUEVO ATTITUDE SXT",
+    "precio": 411400.0
+  },
+  {
+    "marca": "FIAT",
+    "descripcion": "ARGO DRIVE PLUS MT",
+    "precio": 309200.0
+  },
+  {
+    "marca": "FIAT",
+    "descripcion": "ARGO DRIVE PLUS S DESIGN MT",
+    "precio": 329200.0
+  },
+  {
+    "marca": "FIAT",
+    "descripcion": "ARGO DRIVE PLUS S-DESIGN CVT",
+    "precio": 339200.0
+  },
+  {
+    "marca": "FIAT",
+    "descripcion": "ARGO TREKKING CVT",
+    "precio": 365200.0
+  },
+  {
+    "marca": "FIAT",
+    "descripcion": "ARGO TREKKING MT",
+    "precio": 346200.0
+  },
+  {
+    "marca": "FIAT",
+    "descripcion": "FASTBACK AUDACE",
+    "precio": 475300.0
+  },
+  {
+    "marca": "FIAT",
+    "descripcion": "FASTBACK IMPETUS",
+    "precio": 513300.0
+  },
+  {
+    "marca": "FIAT",
+    "descripcion": "MOBI LIKE",
+    "precio": 262000.0
+  },
+  {
+    "marca": "FIAT",
+    "descripcion": "MOBI TREKKING",
+    "precio": 276000.0
+  },
+  {
+    "marca": "FIAT",
+    "descripcion": "PULSE ABARTH",
+    "precio": 498300.0
+  },
+  {
+    "marca": "FIAT",
+    "descripcion": "PULSE DRIVE",
+    "precio": 366200.0
+  },
+  {
+    "marca": "FIAT",
+    "descripcion": "PULSE DRIVE PLUS CVT",
+    "precio": 395200.0
+  },
+  {
+    "marca": "FIAT",
+    "descripcion": "PULSE IMPETUS",
+    "precio": 444300.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "BRONCO BADLANDS 2.0 ECOBOOST",
+    "precio": 885000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "BRONCO SPORT BIG BEND ECOBO",
+    "precio": 746000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "BRONCO SPORT FREE WHELING",
+    "precio": 810000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "BRONCO SPORT OUTER BANKS",
+    "precio": 841000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "ESCAPE ACTIVE",
+    "precio": 778000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "ESCAPE PLATINUM",
+    "precio": 899000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "ESCAPE ST LINE",
+    "precio": 803000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "ESCAPE ST LINE ELITE",
+    "precio": 978000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "ESCAPE ST LINE SELECT",
+    "precio": 842000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "MAVERICK LARIAT SUPER CREW FWD2 L HYBRID",
+    "precio": 845000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "MAVERICK LARIAT TEMOR HIGH",
+    "precio": 911000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "MAVERICK XLT SUPER CREW FWD 2.0 L ECOBOST",
+    "precio": 705000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "MAVERIK LARIAT AWD 2.0 L SUPERCREW",
+    "precio": 805000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "RANGER XL DOUBLE CAB 2.3 L GAS 4X2",
+    "precio": 974000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "RANGER XL2 3L 4V TIVCT DI TC GAS 4X2",
+    "precio": 768000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "RANGER XLT 2.0L 4X4 DSL PHANTER",
+    "precio": 893000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "RANGER XLT 2.3L GAS 4X2",
+    "precio": 858000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "TERRITORY AMBIENTE FWD 1.8L",
+    "precio": 599000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "TERRITORY TITANIUM FWD 1.8L",
+    "precio": 770000.0
+  },
+  {
+    "marca": "FORD",
+    "descripcion": "TERRITORY TREND FWD 1.8L",
+    "precio": 705000.0
+  },
+  {
+    "marca": "HONDA",
+    "descripcion": "ACCORD PRIME",
+    "precio": 765900.0
+  },
+  {
+    "marca": "HONDA",
+    "descripcion": "ACCORD TOURING HEV",
+    "precio": 905900.0
+  },
+  {
+    "marca": "HONDA",
+    "descripcion": "BR-V TOURING",
+    "precio": 519900.0
+  },
+  {
+    "marca": "HONDA",
+    "descripcion": "BR-V UNIQ",
+    "precio": 480900.0
+  },
+  {
+    "marca": "HONDA",
+    "descripcion": "CITY PRIME CVT",
+    "precio": 432900.0
+  },
+  {
+    "marca": "HONDA",
+    "descripcion": "CITY SPORT",
+    "precio": 401900.0
+  },
+  {
+    "marca": "HONDA",
+    "descripcion": "CITY TOURING CVT",
+    "precio": 463900.0
+  },
+  {
+    "marca": "HONDA",
+    "descripcion": "CIVIC I- STYLE",
+    "precio": 580900.0
+  },
+  {
+    "marca": "HONDA",
+    "descripcion": "CIVIC SPORT HEV",
+    "precio": 684900.0
+  },
+  {
+    "marca": "HONDA",
+    "descripcion": "CIVIC TOURING HEV",
+    "precio": 724900.0
+  },
+  {
+    "marca": "HONDA",
+    "descripcion": "CRV TOURING",
+    "precio": 850900.0
+  },
+  {
+    "marca": "HONDA",
+    "descripcion": "CRV TOURING HEV",
+    "precio": 939900.0
+  },
+  {
+    "marca": "HONDA",
+    "descripcion": "CRV TURBO CVT",
+    "precio": 741900.0
+  },
+  {
+    "marca": "HONDA",
+    "descripcion": "CRV TURBO PLUS",
+    "precio": 796900.0
+  },
+  {
+    "marca": "HONDA",
+    "descripcion": "HRV SPORT CVT",
+    "precio": 626900.0
+  },
+  {
+    "marca": "HONDA",
+    "descripcion": "HRV TOURING",
+    "precio": 659900.0
+  },
+  {
+    "marca": "HONDA",
+    "descripcion": "HRV UNIQ CVT",
+    "precio": 590900.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "CRETA GL STD",
+    "precio": 412800.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "CRETA GLS AT",
+    "precio": 462600.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "CRETA GRAND LIMITED 2.0L PIEL BITONO 7 PAS",
+    "precio": 593700.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "CRETA GRAND PREMIUM 2.0L TELA",
+    "precio": 544000.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "CRETA LIMITED PIEL NEGRA",
+    "precio": 544800.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "CRETA PREMIUM PIEL BITONO",
+    "precio": 498300.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "ELANTRA GLS PREMIUM AUTOMATICO 4 CIL",
+    "precio": 517900.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "ELANTRA LIMITED AUTOMATICO",
+    "precio": 577800.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "ELANTRA PREMIUM-HIBRIDO",
+    "precio": 671800.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "GRAND I10 HB GLS AUT",
+    "precio": 346800.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "GRAND I10 HB GLS MANUAL",
+    "precio": 325900.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "GRAND I10 SEDAN GL MID AUT",
+    "precio": 339300.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "GRAND I10 SEDAN GLS AUT",
+    "precio": 363100.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "GRAND I10 SEDAN GLS MANUAL",
+    "precio": 341800.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "HB20 HB GL MID AT",
+    "precio": 437800.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "HB20 HB GL MID MT",
+    "precio": 405400.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "HB20 HB GL TA",
+    "precio": 378300.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "HB20 HB GL TM",
+    "precio": 363600.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "HB20 HB GLS AT",
+    "precio": 456500.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "HB20 SEDAN GL AT",
+    "precio": 378300.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "HB20 SEDAN GL MID AT",
+    "precio": 410300.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "HB20 SEDAN GL MID MT",
+    "precio": 395600.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "HB20 SEDAN GL MT",
+    "precio": 362800.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "HB20 SEDAN GLS AT",
+    "precio": 436200.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "SANTA FE GLS 2.5L TURBO",
+    "precio": 993200.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "TUCSON GLS 2.5L AT",
+    "precio": 599000.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "TUCSON LIMITED HIBRIDA  1.6 TURBO + ELECTRICO",
+    "precio": 873000.0
+  },
+  {
+    "marca": "HYUNDAI",
+    "descripcion": "TUCSON LIMITED NAVI PIEL 2.5L",
+    "precio": 777500.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "E 10 X PASAJEROS",
+    "precio": 357000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "E FRISON T8",
+    "precio": 919000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "E Sei4 Pro",
+    "precio": 753000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "E10 X CARGO",
+    "precio": 377000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "E30 X ADVANCED",
+    "precio": 490000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "E30 X LIMITED",
+    "precio": 529000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "EJ 7",
+    "precio": 730000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "FRISON T 6 FLEX MT",
+    "precio": 420000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "FRISON T6 2.0 MT",
+    "precio": 446000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "FRISON T6 FLEX TM",
+    "precio": 420000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "FRISON T8 2.0 MT",
+    "precio": 450000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "FRISON T8 DIESEL 4X4",
+    "precio": 539000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "FRISON T9  4X4",
+    "precio": 599000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "FRISON T9 4X2",
+    "precio": 539000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "J-7 LIMITED CVT",
+    "precio": 399000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "J-7 QUANTUM CVT",
+    "precio": 367000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "J-7ADVANCED MT",
+    "precio": 308000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "JAC 2 SMART CVT",
+    "precio": 329900.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "JAC 2 SMART TM",
+    "precio": 299000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "JAC 4 ACTIVE CVT",
+    "precio": 390000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "JAC 4 COMFORT TM",
+    "precio": 338000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "JAC 6 LIMITED",
+    "precio": 559000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "JAC 6 QUENTUM",
+    "precio": 499000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "JAC 8",
+    "precio": 499000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "SEI 7 PRO LIMITED DCT",
+    "precio": 499000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "SEI 7 PRO QUANTUM DCT",
+    "precio": 484000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "SEI6 LIMITED",
+    "precio": 559000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "SEI6 QUANTUM",
+    "precio": 499000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "SUNRAY DIESEL2.7T PASAJEROS",
+    "precio": 792000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "SUNRAY PASAJEROS DOBLE RODADO",
+    "precio": 792000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "X200 DIESEL 2.0 T MT",
+    "precio": 421000.0
+  },
+  {
+    "marca": "JAC",
+    "descripcion": "X350 DIESEL 3.5T MT",
+    "precio": 599000.0
+  },
+  {
+    "marca": "JAECOO",
+    "descripcion": "JAECOO 7 ELEMENTAL",
+    "precio": 599900.0
+  },
+  {
+    "marca": "JAECOO",
+    "descripcion": "JAECOO 7 INSPIRARE",
+    "precio": 670000.0
+  },
+  {
+    "marca": "JAECOO",
+    "descripcion": "JAECOO 7 REFINE AWD",
+    "precio": 745000.0
+  },
+  {
+    "marca": "JEEP",
+    "descripcion": "COMMANDER OVERLAND",
+    "precio": 736400.0
+  },
+  {
+    "marca": "JEEP",
+    "descripcion": "COMPASS ALTITUDE",
+    "precio": 667400.0
+  },
+  {
+    "marca": "JEEP",
+    "descripcion": "COMPASS ALTITUDE LIGHT",
+    "precio": 632400.0
+  },
+  {
+    "marca": "JEEP",
+    "descripcion": "COMPASS ALTITUDE LIGHT SIN QUEMACOCO",
+    "precio": 602400.0
+  },
+  {
+    "marca": "JEEP",
+    "descripcion": "COMPASS HIGH ALTITUDE",
+    "precio": 776400.0
+  },
+  {
+    "marca": "JEEP",
+    "descripcion": "COMPASS LIMITED PREMIUM",
+    "precio": 615900.0
+  },
+  {
+    "marca": "JEEP",
+    "descripcion": "RENEGADE LATITUDE",
+    "precio": 512900.0
+  },
+  {
+    "marca": "JEEP",
+    "descripcion": "RENEGADE LIMITED",
+    "precio": 565400.0
+  },
+  {
+    "marca": "JEEP",
+    "descripcion": "RENEGADE SPORT",
+    "precio": 474900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "K3 HB EX PACK AT",
+    "precio": 425400.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "K3 HB EX TA",
+    "precio": 389400.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "K3 HB GT LINE TA",
+    "precio": 467400.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "K3 HB LX TM",
+    "precio": 347400.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "K3 SEDAN EX PACK",
+    "precio": 425400.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "K3 SEDAN EX TA",
+    "precio": 389400.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "K3 SEDAN EX TM",
+    "precio": 375400.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "K3 SEDAN GT LINE",
+    "precio": 467400.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "K3 SEDAN L TA",
+    "precio": 322400.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "K3 SEDAN LX AT",
+    "precio": 361400.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "K3 SEDAN LX TM",
+    "precio": 347400.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "K4 SDN EX",
+    "precio": 473900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "k4 SDN GT",
+    "precio": 561900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "K4 SDN GT LINE",
+    "precio": 512900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "K4 SDN L IVT",
+    "precio": 414900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "K4 SDN L TM",
+    "precio": 399900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "K4 SDN LX IVT",
+    "precio": 428900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "K4 SDN LX TM",
+    "precio": 414900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "KIA SPORTAGE LX",
+    "precio": 594900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "NIRO EX TA",
+    "precio": 727900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "SELTOS 1.6L EX PACK T/A",
+    "precio": 512900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "SELTOS 1.6L EX T/A",
+    "precio": 460900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "SELTOS SX",
+    "precio": 538900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "SELTOS SXL",
+    "precio": 576900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "SONET EX AT IVT",
+    "precio": 402900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "SONET LX TM",
+    "precio": 372900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "SONET SX AT IVT",
+    "precio": 452900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "SORENTO EX",
+    "precio": 821900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "SORENTO EX  PACK",
+    "precio": 885900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "SORENTO SXL",
+    "precio": 985900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "SOUL GT LINE",
+    "precio": 476900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "SOUL LX AUT",
+    "precio": 416900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "SOUL LX TM",
+    "precio": 394900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "SPORTAGE EX AT",
+    "precio": 633900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "SPORTAGE EXPACK",
+    "precio": 692900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "SPORTAGE HEV SXL AT",
+    "precio": 872900.0
+  },
+  {
+    "marca": "KIA",
+    "descripcion": "SPORTAGE SXL",
+    "precio": 752900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "CX-3 i 2WD",
+    "precio": 386900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "CX-3 i SPORT 2WD",
+    "precio": 416900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "CX-30 i GT 2WD",
+    "precio": 512900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "CX-30 i SPORT",
+    "precio": 466900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "CX-30 MHEV i SPORT 2 WD",
+    "precio": 495900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "CX-30 SIGNATURE TURBO AWD",
+    "precio": 552900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "CX-5 I SPORT 2WD PIEL 2.5L",
+    "precio": 548900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "CX-5 S GT 2WD PIEL",
+    "precio": 608900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "CX-5 S SIGNATURE 2WD",
+    "precio": 678900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "CX-50 SIGNATURE 2WD",
+    "precio": 815900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "MAZDA 3 4 PTS i  TA",
+    "precio": 407900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "MAZDA 3 4 PTS S TA",
+    "precio": 437900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "MAZDA 3 4PTS GRAND TOURING",
+    "precio": 477900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "MAZDA 3 4PTS I TM",
+    "precio": 397900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "MAZDA 3 4PTS S TM",
+    "precio": 422900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "MAZDA 3 5 PTS S T/A",
+    "precio": 448900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "MAZDA 3 HATCHBACK SIGNATURE",
+    "precio": 563900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "MAZDA 3 HBi GRAND TOURING TA",
+    "precio": 495900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "MAZDA 3 MHEV i SPORT TA",
+    "precio": 453900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "MAZDA 3 SEDAN SIGNATURE TA",
+    "precio": 547900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "MX-5 i GRAND TOURING TA",
+    "precio": 619900.0
+  },
+  {
+    "marca": "MAZDA",
+    "descripcion": "MX-5 i SPORT TM",
+    "precio": 519900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG EHS 1.5 T LUX TROPHY PHEV",
+    "precio": 619900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG HS 1.5T EXCITE DCT",
+    "precio": 469900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG HS 2.0T LUX TROPHY PACK DCT",
+    "precio": 589900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG ONE EXCITE CVT",
+    "precio": 535900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG ONE STYLE CVT",
+    "precio": 485900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG ZSEV  DYNAMO",
+    "precio": 528900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG3 COOL MT",
+    "precio": 239900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG3 ELEGANCE",
+    "precio": 439900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG3 EXCITE CVT",
+    "precio": 349900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG3 EXCITE HEV",
+    "precio": 399900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG3 HEV ELEGANCE",
+    "precio": 439900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG3 HEV EXCITE",
+    "precio": 399900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG3 STYLE",
+    "precio": 299900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG3 STYLE CVT",
+    "precio": 309900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG4 EV EXTENDED RANGE",
+    "precio": 579000.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG4 EV STYLE",
+    "precio": 459900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG4 EV X POWER",
+    "precio": 699000.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG5 1.5L ELEGANCE TA",
+    "precio": 347900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG5 1.5L ELEGANCE TM",
+    "precio": 322900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG5 1.5L EXCITE TA",
+    "precio": 322900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG5 1.5L EXCITE TM",
+    "precio": 298900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG5 1.5L STYLE MT",
+    "precio": 299900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG7 COM PREMIER TA",
+    "precio": 589900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "MG7 LUXE TROPHY AT",
+    "precio": 649900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "RX 9 COM ELEGANCE AT",
+    "precio": 759000.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "RX5 1.5T COM EXCITE DCT",
+    "precio": 479900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "RX5 1.5T LUX ELEGANCE",
+    "precio": 560900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "RX8 ELEGANCE AT",
+    "precio": 799900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "RX9 LUXE PREMIER AT",
+    "precio": 849000.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "ZS 1.5L COM ELEGANCE CVT",
+    "precio": 455900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "ZS 1.5L COM ELEGANCE RED PACK CVT",
+    "precio": 461900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "ZS 1.5L EXCITE CVT",
+    "precio": 405900.0
+  },
+  {
+    "marca": "MG",
+    "descripcion": "ZS 1.5L STD STYLE TM",
+    "precio": 365900.0
+  },
+  {
+    "marca": "MITSUBISHI",
+    "descripcion": "L200 GASOLINA GLX TM 4X2",
+    "precio": 573100.0
+  },
+  {
+    "marca": "MITSUBISHI",
+    "descripcion": "L200 GLS AT 4X4 DSL",
+    "precio": 809500.0
+  },
+  {
+    "marca": "MITSUBISHI",
+    "descripcion": "L200 GLX DIESEL TM",
+    "precio": 646300.0
+  },
+  {
+    "marca": "MITSUBISHI",
+    "descripcion": "L200 LIMITED AT 4X4 DSL",
+    "precio": 852400.0
+  },
+  {
+    "marca": "MITSUBISHI",
+    "descripcion": "MIRAGE G4 GLS CVT",
+    "precio": 347300.0
+  },
+  {
+    "marca": "MITSUBISHI",
+    "descripcion": "MIRAGE G4 GLS TM",
+    "precio": 320300.0
+  },
+  {
+    "marca": "MITSUBISHI",
+    "descripcion": "MIRAGE G4 GLX CVT",
+    "precio": 318700.0
+  },
+  {
+    "marca": "MITSUBISHI",
+    "descripcion": "MIRAGE G4 GLX TM",
+    "precio": 294400.0
+  },
+  {
+    "marca": "MITSUBISHI",
+    "descripcion": "MONTERO SPORT SE",
+    "precio": 968900.0
+  },
+  {
+    "marca": "MITSUBISHI",
+    "descripcion": "MONTERO SPORT SE PLUS",
+    "precio": 999900.0
+  },
+  {
+    "marca": "MITSUBISHI",
+    "descripcion": "OUTLANDER PHEV DIAMOND",
+    "precio": 949100.0
+  },
+  {
+    "marca": "MITSUBISHI",
+    "descripcion": "OUTLANDER PHEV LIMITED",
+    "precio": 888500.0
+  },
+  {
+    "marca": "MITSUBISHI",
+    "descripcion": "OUTLANDER PHEV SE PLUS",
+    "precio": 827900.0
+  },
+  {
+    "marca": "MITSUBISHI",
+    "descripcion": "OUTLANDER SPORT SE",
+    "precio": 457800.0
+  },
+  {
+    "marca": "MITSUBISHI",
+    "descripcion": "OUTLANDER SPORT SE PLUS INT MOCHA",
+    "precio": 504900.0
+  },
+  {
+    "marca": "MITSUBISHI",
+    "descripcion": "OUTLANDER SPORT SE PLUS INT NEGRO",
+    "precio": 504900.0
+  },
+  {
+    "marca": "MITSUBISHI",
+    "descripcion": "XPANDER CROSS",
+    "precio": 465800.0
+  },
+  {
+    "marca": "MITSUBISHI",
+    "descripcion": "XPANDER GLS",
+    "precio": 428600.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "ALTIMA ADVANCE 2.5L CVT",
+    "precio": 750900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "ALTIMA EXCLUSIVE 3.5L V6 TURBO",
+    "precio": 820900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "FRONTIER DOBLE CABINA DIESEL 4X4 TM AC PAQ SEG",
+    "precio": 617900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "FRONTIER LE 4X4 TA DIESEL PLATINUM",
+    "precio": 843900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "FRONTIER LE TA",
+    "precio": 659900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "FRONTIER LE TM",
+    "precio": 637900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "FRONTIER PLATINUM  LE",
+    "precio": 753900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "FRONTIER PRO 4X  TA 4X4",
+    "precio": 785900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "FRONTIER SE TM",
+    "precio": 494900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "FRONTIER XE TM",
+    "precio": 546900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "KICKS ADVANCE E POWER",
+    "precio": 593900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "KICKS EXCLUSIVE E POWER",
+    "precio": 604900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "KICKS PLATINUM 1.6LTS CVT",
+    "precio": 631900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "KICKS PLATINUM E POWER",
+    "precio": 627900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "KICKS PLAY  ADVANCE 1.6 LTS CVT AC",
+    "precio": 476900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "KICKS PLAY  E POWER ADVANCE CVT",
+    "precio": 593900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "KICKS PLAY  E POWER EXCLUSIVE CVT",
+    "precio": 604900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "KICKS PLAY ADVANCE 1.6 LTS TM AC",
+    "precio": 440900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "KICKS PLAY E POWER PLATINUM (BITONO)",
+    "precio": 627900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "KICKS PLAY E POWER PLATINUM CVT",
+    "precio": 627900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "MARCH ADVANCE TA",
+    "precio": 332900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "MARCH ADVANCE TM",
+    "precio": 309900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "MARCH EXCLUSIVE TA",
+    "precio": 347900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "MARCH EXCLUSIVE TA BITONO",
+    "precio": 354900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "MARCH EXCLUSIVE TM",
+    "precio": 332900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "MARCH EXCLUSIVE TM BITONO",
+    "precio": 339900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "MARCH SENSE TA",
+    "precio": 303900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "MARCH SENSE TM",
+    "precio": 281900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "NP 300 PICK UP TM AC",
+    "precio": 483900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "SENTRA ADVANCE CVT",
+    "precio": 475900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "SENTRA ADVANCE TM",
+    "precio": 453900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "SENTRA SENSE CVT",
+    "precio": 435900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "SENTRA SENSE MT",
+    "precio": 413900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "SENTRA SR BITONO CVT",
+    "precio": 537900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "SENTRA SR CVT",
+    "precio": 537900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "SENTRA SR PLATINUM  BITONO CVT",
+    "precio": 557900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "SENTRA SR PLATINUM  CVT",
+    "precio": 557900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "URVAN  PANEL 4 VENTANAS AMPLIA PAQ SEG",
+    "precio": 619900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "URVAN 11 PAS A/A PAQ SEG TM",
+    "precio": 753900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "URVAN 14 PAS AMPLIA AA PAQ SEG TM",
+    "precio": 805900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "URVAN PANEL AMPLIA AA PAQ SEG",
+    "precio": 621900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "VERSA ADVANCE CVT  AC",
+    "precio": 405900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "VERSA ADVANCE TM AC",
+    "precio": 385900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "VERSA CVT/SR",
+    "precio": 422900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "VERSA EXCLUSIVE CVT",
+    "precio": 438900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "VERSA SENSE  AC CVT",
+    "precio": 364900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "VERSA SENSE TM AC",
+    "precio": 347900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "X TRAIL E POWER EXCLUSIVE 2 ROW",
+    "precio": 865900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "X-TRAIL ADVANCE 2 ROW",
+    "precio": 691900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "XTRAIL E-POWER PLATINO",
+    "precio": 956900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "X-TRAIL EXCLUSIVE 2 ROW",
+    "precio": 736900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "XTRAIL PLATINUM 2 ROW",
+    "precio": 801900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "XTRAIL PLATINUM 3 ROW",
+    "precio": 821900.0
+  },
+  {
+    "marca": "NISSAN",
+    "descripcion": "XTRAIL PLATINUM PLUS 2 ROW",
+    "precio": 847900.0
+  },
+  {
+    "marca": "OMODA",
+    "descripcion": "C5 LIFE (SUV)",
+    "precio": 465900.0
+  },
+  {
+    "marca": "OMODA",
+    "descripcion": "C5 UNLIMITED (SUV)",
+    "precio": 505900.0
+  },
+  {
+    "marca": "OMODA",
+    "descripcion": "C5 UNLIMITED PLUS (SUV)",
+    "precio": 540900.0
+  },
+  {
+    "marca": "OMODA",
+    "descripcion": "O5 GT LIFE (SEDAN)",
+    "precio": 459900.0
+  },
+  {
+    "marca": "OMODA",
+    "descripcion": "O5 GT UNLIMITED (SEDAN)",
+    "precio": 499900.0
+  },
+  {
+    "marca": "OMODA",
+    "descripcion": "O5 LIFE (SEDAN)",
+    "precio": 369900.0
+  },
+  {
+    "marca": "OMODA",
+    "descripcion": "O5 UNLIMITED (SEDAN)",
+    "precio": 415900.0
+  },
+  {
+    "marca": "PEUGEOT",
+    "descripcion": "2008 ACTIVE AUT FL",
+    "precio": 461400.0
+  },
+  {
+    "marca": "PEUGEOT",
+    "descripcion": "3008 GT AUT",
+    "precio": 694400.0
+  },
+  {
+    "marca": "PEUGEOT",
+    "descripcion": "PARTNER MAXI PACK PURETECH MAN 4 AIRBAGS",
+    "precio": 453400.0
+  },
+  {
+    "marca": "PEUGEOT",
+    "descripcion": "PARTNER MAXI PURETECH MAN",
+    "precio": 422400.0
+  },
+  {
+    "marca": "PEUGEOT",
+    "descripcion": "PARTNER MAXIPACK PURETECH MAN 4 AIR BAGS",
+    "precio": 455400.0
+  },
+  {
+    "marca": "PEUGEOT",
+    "descripcion": "2008 ALLURE PACK AUT FL",
+    "precio": 501400.0
+  },
+  {
+    "marca": "PEUGEOT",
+    "descripcion": "2008 GT AUT FL",
+    "precio": 543400.0
+  },
+  {
+    "marca": "PEUGEOT",
+    "descripcion": "3008 ACTIVE AUT",
+    "precio": 584400.0
+  },
+  {
+    "marca": "PEUGEOT",
+    "descripcion": "3008 ALLURE PACK AUT",
+    "precio": 639400.0
+  },
+  {
+    "marca": "PEUGEOT",
+    "descripcion": "MANAGER FURGON L2 H2 5P 2.2 HDI 150hp MAN 6 VEL",
+    "precio": 803400.0
+  },
+  {
+    "marca": "PEUGEOT",
+    "descripcion": "MANAGER FURGON L4 H2 5p 2.2 HDI 150np MAN 6VEL",
+    "precio": 844900.0
+  },
+  {
+    "marca": "PEUGEOT",
+    "descripcion": "PARTNER MAXI MAN (DISEL)",
+    "precio": 432400.0
+  },
+  {
+    "marca": "PEUGEOT",
+    "descripcion": "PEUGEOT EXPERT FURGON MAN",
+    "precio": 689400.0
+  },
+  {
+    "marca": "PEUGEOT",
+    "descripcion": "RIFTER ACTIVE MAN",
+    "precio": 421400.0
+  },
+  {
+    "marca": "PEUGEOT",
+    "descripcion": "RIFTER ALLURE PACK MAN",
+    "precio": 453400.0
+  },
+  {
+    "marca": "PEUGEOT",
+    "descripcion": "RIFTER ALLURE PACK PURETECH AUT",
+    "precio": 483400.0
+  },
+  {
+    "marca": "PEUGEOT",
+    "descripcion": "RIFTER GT PURETECH AUT",
+    "precio": 574900.0
+  },
+  {
+    "marca": "RAM",
+    "descripcion": "PROMASTER RAPID AA",
+    "precio": 319900.0
+  },
+  {
+    "marca": "RAM",
+    "descripcion": "RAM 1200 BIGHORN CREW Cab at",
+    "precio": 589900.0
+  },
+  {
+    "marca": "RAM",
+    "descripcion": "RAM 1200 LARAMIE CREW CAB AT 4X4",
+    "precio": 679900.0
+  },
+  {
+    "marca": "RAM",
+    "descripcion": "RAM 1200 TRADESMAN CAB REGULAR STD",
+    "precio": 444900.0
+  },
+  {
+    "marca": "RAM",
+    "descripcion": "RAM 1200 TRADESMAN CREW CAB STD",
+    "precio": 495400.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "ARKANA E.APLINE HIGH",
+    "precio": 530000.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "ARKANA E.APLINE MID",
+    "precio": 525000.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "ARKANA I.APLINE LOW",
+    "precio": 510000.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "ARKANA TECHNO",
+    "precio": 480000.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "DUSTER NUEVA  INTENS  TM",
+    "precio": 380800.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "DUSTER NUEVA ICONIC CVT",
+    "precio": 465100.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "KANGOO INTENS TM",
+    "precio": 358000.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "KARDIAN EVOLUTION EDC",
+    "precio": 403500.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "KARDIAN EVOLUTION TM",
+    "precio": 357500.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "KARDIAN PREMIERE EDITION EDC",
+    "precio": 453500.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "KARDIAN TECHNO EDC",
+    "precio": 423500.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "KOLEOS ICONIC CVT",
+    "precio": 702100.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "KOLEOS INTENS CVT",
+    "precio": 599000.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "KWID BITONO TM",
+    "precio": 273500.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "KWID ICONIC TM",
+    "precio": 265500.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "KWID INTENS TM",
+    "precio": 240500.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "KWID OUTSIDER TM",
+    "precio": 279500.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "LOGAN INTENS CVT",
+    "precio": 358500.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "LOGAN INTENS TM",
+    "precio": 325400.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "MASTER DIESEL L3H2",
+    "precio": 815000.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "MATER DIESEL L2H2",
+    "precio": 783000.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "OROCH OUTSIDER TA",
+    "precio": 510000.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "OROCH OUTSIDER TM",
+    "precio": 442500.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "OROCH ZEN TM",
+    "precio": 402500.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "OUTSIDER CVT",
+    "precio": 524500.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "STEPWAY INTENS CVT",
+    "precio": 380500.0
+  },
+  {
+    "marca": "RENAULT",
+    "descripcion": "STEPWAY INTENSE TM",
+    "precio": 354300.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "ARONA MARINA 1.6L 110 HP TIP",
+    "precio": 485900.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "ARONA REFERENCE TIPTRONIC 1.6",
+    "precio": 385900.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "ARONA STYLE TIPTRONIC 1.6",
+    "precio": 423900.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "ARONA XPERIENCE TIPTRONIC 1.6",
+    "precio": 446900.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "ATECA FR 1.4T 150 HP TIP",
+    "precio": 629990.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "ATECA STYLE 1.4  110HP TIP",
+    "precio": 524990.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "ATECA XPERIENCE 1.4T 150",
+    "precio": 629990.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "IBIZA FR 1.0 TM",
+    "precio": 429900.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "IBIZA FR 1.6 TM",
+    "precio": 409900.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "IBIZA REFERENCE 1.6 STD",
+    "precio": 336900.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "IBIZA REFERENCE 1.6 TIPTRONIC",
+    "precio": 363900.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "IBIZA STYLE 1.6 TIPTRONIC",
+    "precio": 397900.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "IBIZA STYLE 1.6 TM",
+    "precio": 379900.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "IBIZA XCELLENCE 1.6 TIP",
+    "precio": 420900.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "IBIZA XCELLENCE 1.6 TM",
+    "precio": 397900.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "LEON STYLE 1.4 T ISO HP AUT8",
+    "precio": 526900.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "SEAT LEON FR 1.4T 150HP",
+    "precio": 585900.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "TARRACO FR 1.4T DSG",
+    "precio": 736900.0
+  },
+  {
+    "marca": "SEAT",
+    "descripcion": "TARRACO FR 3A FILA",
+    "precio": 761900.0
+  },
+  {
+    "marca": "SUBARU",
+    "descripcion": "BRZ 2.4i  LIMITED 6AT+ EYESIGHT",
+    "precio": 799900.0
+  },
+  {
+    "marca": "SUBARU",
+    "descripcion": "BRZ 2.4i  LIMITED 6MT",
+    "precio": 769900.0
+  },
+  {
+    "marca": "SUBARU",
+    "descripcion": "CROSSTREK 2.0i LIMITED CVT + EYESIGTH",
+    "precio": 629900.0
+  },
+  {
+    "marca": "SUBARU",
+    "descripcion": "CROSSTREK 2.0i LIMITED CVT e-BOXER CVT",
+    "precio": 679900.0
+  },
+  {
+    "marca": "SUBARU",
+    "descripcion": "CROSSTREK 2.0i PREMIUM PLUS CVT + EYESIGTH",
+    "precio": 589900.0
+  },
+  {
+    "marca": "SUBARU",
+    "descripcion": "FORESTER 2.5i BLACK EDITION CVT+EYESIGHT",
+    "precio": 769900.0
+  },
+  {
+    "marca": "SUBARU",
+    "descripcion": "FORESTER 2.5I PREMIUM PLUS CVT+ EYESIGHT",
+    "precio": 669900.0
+  },
+  {
+    "marca": "SUBARU",
+    "descripcion": "FORESTER 2.5I SPORT CVT+ EYESIGHT",
+    "precio": 709900.0
+  },
+  {
+    "marca": "SUBARU",
+    "descripcion": "FORESTER 2.5i TOURING CVT+ EYESIGHT",
+    "precio": 759900.0
+  },
+  {
+    "marca": "SUBARU",
+    "descripcion": "MG4 EV STYLE",
+    "precio": 459900.0
+  },
+  {
+    "marca": "SUBARU",
+    "descripcion": "OUTBACK 2.4L TOURING XT CVT + EYESIGHT",
+    "precio": 929900.0
+  },
+  {
+    "marca": "SUBARU",
+    "descripcion": "WRX 2 4+S CVT",
+    "precio": 919900.0
+  },
+  {
+    "marca": "SUBARU",
+    "descripcion": "WRX 2.4 HIGH GMT",
+    "precio": 819900.0
+  },
+  {
+    "marca": "SUBARU",
+    "descripcion": "WRX 2.4 SPORTWAGON CVT",
+    "precio": 899900.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "BALENO GLS AT",
+    "precio": 339990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "BALENO GLX AT",
+    "precio": 385990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "CIAZ GLX AT",
+    "precio": 372990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "CIAZ GLX TM",
+    "precio": 352990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "ERTIGA GLS TA",
+    "precio": 404990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "ERTIGA GLS TM",
+    "precio": 385990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "ERTIGA GLX TA",
+    "precio": 432990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "ERTIGA GLX TM",
+    "precio": 417990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "ERTIGA XL7 AUT",
+    "precio": 459990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "FRONX  GLX AT",
+    "precio": 449990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "GRAND VITARA GLX AT",
+    "precio": 504990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "IGNIS GL CVT",
+    "precio": 284990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "IGNIS GL TM",
+    "precio": 254990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "IGNIS GLS-Z  CVT",
+    "precio": 309990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "IGNIS GLS-Z TM",
+    "precio": 289990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "IGNIS GLX CVT",
+    "precio": 339990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "IGNIS GLX MT",
+    "precio": 319990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "JIMNY 5 DOOR GLX AT",
+    "precio": 519990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "JIMNY GLX AT BITONO",
+    "precio": 485990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "JIMNY GLX MT",
+    "precio": 460990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "JIMNY GLX MT BITONO",
+    "precio": 460990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "JIMNY GLX TA",
+    "precio": 485990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "S-CROSS BOOSTER JET AT",
+    "precio": 529990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "SWIFT BG GLS CVT",
+    "precio": 354990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "SWIFT BG GLS TM",
+    "precio": 334990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "SWIFT BG GLX CVT",
+    "precio": 374990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "SWIFT BG GLX TM",
+    "precio": 354990.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "SWIFT SPORT TA",
+    "precio": 440900.0
+  },
+  {
+    "marca": "SUZUKI",
+    "descripcion": "SWIFT SPORT TM",
+    "precio": 420990.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "JETTA COMFORTLINE TIP",
+    "precio": 486070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "JETTA GLI LONG DRIVE",
+    "precio": 677070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "JETTA SPORTLINE",
+    "precio": 558070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "JETTA TRENDLINE TIP",
+    "precio": 438070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "NIVUS HIGHLINE",
+    "precio": 479070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "JETTA SPORTLINE",
+    "precio": 396070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "NUEVO VIRTUS HIGHLINE TIPTRONIC",
+    "precio": 435070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "NUEVO VIRTUS TRENDLINE STD",
+    "precio": 339070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "NUEVO VIRTUS TRENDLINE TIPTRONIC",
+    "precio": 359070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "POLO COMFORTLINE",
+    "precio": 386070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "POLO HIGHLINE",
+    "precio": 420070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "POLO TRACK",
+    "precio": 330070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "POLO TRENDLINE",
+    "precio": 355070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "SAVEIRO EXTREME DOBLE CAB",
+    "precio": 429970.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "SAVEIRO ROBUST C/C",
+    "precio": 339070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TAIGUN COMFORTLINE TIPT",
+    "precio": 477070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TAIGUN HIGHLINE TIPT",
+    "precio": 517070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TAIGUN TRENDLINE MPI STD 1.6",
+    "precio": 393070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TAIGUN TRENDLINE MPI TIP 1.6",
+    "precio": 413070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TAIGUN TRENDLINE TSI",
+    "precio": 446070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TAOS COMFORTLINE PLUS TIP",
+    "precio": 570070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TAOS CONFORTLINE TIP",
+    "precio": 540090.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TAOS HIGHLINE TIP",
+    "precio": 595090.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TAOS TRENDLINE TIP",
+    "precio": 520070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TERAMONT TRENDLINE LONG DRIVE",
+    "precio": 954070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TIGUAN COMFORTLINE",
+    "precio": 663070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TIGUAN COMFORTLINE 3a FILA",
+    "precio": 685070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TIGUAN R LINE 1.4L LONG DRIVE",
+    "precio": 740070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TIGUAN R LINE 2.0 L LONG DRIVE",
+    "precio": 829070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TIGUAN COMFORTLINE",
+    "precio": 663070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TIGUAN COMFORTLINE 3a FILA",
+    "precio": 685070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TIGUAN R LINE 1.4L LONG DRIVE",
+    "precio": 740070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TIGUAN R LINE 2.0 L LONG DRIVE",
+    "precio": 829070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TAOS CONFORTLINE TIP",
+    "precio": 565070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TAOS HIGHLINE TIP",
+    "precio": 615070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TAOS TRENDLINE TIP",
+    "precio": 520070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TERAMONT TRENDLINE LONG DRIVE",
+    "precio": 954070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TIGUAN COMFORTLINE",
+    "precio": 663070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TIGUAN COMFORTLINE 3a FILA",
+    "precio": 685070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TIGUAN R LINE 1.4L LONG DRIVE",
+    "precio": 740070.0
+  },
+  {
+    "marca": "VOLKSWAGEN",
+    "descripcion": "TIGUAN R LINE 2.0 L LONG DRIVE",
+    "precio": 829070.0
+  }
+]
