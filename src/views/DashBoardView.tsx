@@ -35,10 +35,10 @@ export default function DashboardView() {
     const calcularPorcentajeEnganche = () => {
         porcentaje = 2.32; // Reset base for nacional
         if (tipoCoche === 'nacional') {
-            if (tipoPersona === 'fisica') porcentaje += 2.64;
+            if (tipoPersona === 'fisica') porcentaje += 2.6435;
             else if (tipoPersona === 'moral') porcentaje += 2.58;
         } else if (tipoCoche === 'importado') {
-            if (tipoPersona === 'fisica') porcentaje += 2.6935;
+            if (tipoPersona === 'fisica') porcentaje += 2.7935;
             else if (tipoPersona === 'moral') porcentaje += 2.73;
         }
         return porcentaje;
